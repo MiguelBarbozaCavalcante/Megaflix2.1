@@ -1,0 +1,7 @@
+footer {
+    background-color: rgb(136, 66, 206);
+    color: white;
+    font-family: var(--font-secundaria);
+    padding: 50px;
+    text-align: center;
+}
